@@ -1,2 +1,2 @@
-# Hi, Aziz here!
-I'm an experienced software engineer specialized in .NET. I'm also a lecturer in Computer Science topics.
+# Hi, Aziz here! 👋
+Here you can find projects that I made just for fun and experimentation. I also share teaching materials for my lectures here. Please do not hesitate to contact me if you have any question!
